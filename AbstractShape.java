@@ -7,7 +7,7 @@ import api.Shape;
 
 /**
 *@Author Andrei Baechle
-**/
+*/
 
 /**
  * Abstract superclass for implementations of the Shape interface.
